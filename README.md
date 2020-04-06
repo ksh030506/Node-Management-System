@@ -14,10 +14,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 기기에 Node_version >= 6 이상이 필요합니다.
 ```
 npm install -g create-react-app
-create-react-app my-app
+create-react-app 프로젝트 이름
 
-cd my-app
-npm start
+cd 프로젝트 이름
+npm init <= node.js 설정
+npm start or yarn start
+
+(yarn은 npm으로 설치해야할 수도 있다.)
+npm install -g yarn
 ```
 
 ## `yarn start`
