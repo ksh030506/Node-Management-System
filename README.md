@@ -1,5 +1,5 @@
 # Node-Management System
-본 프로젝트는 React와 Node 공부 목적으로 만들어진 고객 관리 시스템 (Management System) 입니다.
+본 프로젝트는 React와 Node 공부 목적으로 만들어진 고객 관리 시스템 (Management System) 입니다.<br/>
 사용자를 DB에 저장하고 관리하며 프로필 관리까지 동시에 할 수 있는 시스템입니다.
 프론트는 ```React.js```를 사용하였고 백엔드는 ```Node.js```를 사용하여 개발하였습니다.
 
