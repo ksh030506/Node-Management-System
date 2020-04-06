@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 스크립트 사용법 ( 프로젝트 설정 방법)
 프로젝트 디렉토리에서 다음을 실행하세요!
 
-## `리액트 시작하기`
+## `React/Node Run`
 새 React 싱글 페이지 어플리케이션 만들기를 시작하기 위한 최고의 방법입니다. 
 최신 자바스크립트 기능을 사용할 수 있게 개발 환경을 세팅해주어, 좋은 개발자 경험을 사용하며, 프로덕션 앱을 위한 최적화도 진행합니다. 
 기기에 Node_version >= 6 이상이 필요합니다.
@@ -18,9 +18,8 @@ create-react-app 프로젝트 이름
 
 cd 프로젝트 이름
 npm init <= node.js 설정
-npm start or yarn start
 
-(yarn은 npm으로 설치해야할 수도 있다.)
+npm start or yarn start <= (yarn은 npm으로 설치해야할 수도 있다.)
 npm install -g yarn
 ```
 
