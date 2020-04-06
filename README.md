@@ -38,19 +38,19 @@ React 앱 문서 생성 : [Create React App documentation](https://facebook.gith
 리액트 배우기 : [React documentation](https://reactjs.org/)
 
 ### 코드 분할
-이 섹션은 여기로 이동했습니다 : https://facebook.github.io/create-react-app/docs/code-splitting
+코드 분할 알아보기 : https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### 번들 크기 분석
+번들 크기 분석 알아보기 : https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 ### Making a Progressive Web App
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### 프로그레시브 웹 앱 만들기
+프로그레시브 웹 앱 알아보기 : https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+### 배포
+프로젝트 배포하기 : https://facebook.github.io/create-react-app/docs/deployment
 
-### `yarn build` fails to minify
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### `yarn build`가 축소되지 않습니다
+https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
