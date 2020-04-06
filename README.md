@@ -31,42 +31,26 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 자세한 내용 확인하기 : [deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `yarn eject`
+## 더 알아보기
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+React 앱 문서 생성 : [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+리액트 배우기 : [React documentation](https://reactjs.org/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### 코드 분할
+이 섹션은 여기로 이동했습니다 : https://facebook.github.io/create-react-app/docs/code-splitting
 
 ### Analyzing the Bundle Size
-
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 ### Making a Progressive Web App
-
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Advanced Configuration
-
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
-
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `yarn build` fails to minify
-
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
