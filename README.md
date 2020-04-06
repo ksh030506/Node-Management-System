@@ -14,23 +14,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 개발 모드에서 앱을 실행하고<br />
 [http://localhost:3000](http://localhost:3000)을 열어 브라우저를 확인합니다
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+수정하면 페이지가 자동으로 새로 고침됩니다.<br />
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+테스트 모드에서 실행합니다.<br />
+자세한 내용 확인하기 : [running tests](https://facebook.github.io/create-react-app/docs/running-tests)
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+프로덕션 용 앱을`build` 폴더에 빌드합니다.<br />
+프로덕션 모드에서 React를 올바르게 번들링하고 최상의 성능을 위해 빌드를 최적화합니다.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+빌드가 축소되고 파일 이름에 해시가 포함됩니다.<br />
+앱을 배포/개발 할 준비가 되었습니다.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+자세한 내용 확인하기 : [deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `yarn eject`
 
