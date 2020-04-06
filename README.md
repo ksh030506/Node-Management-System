@@ -53,7 +53,7 @@ npm install -g yarn
 
 
 ## 더 알아보기
-React 앱 문서 생성 : [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+React 앱 문서 생성 : [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)<br/>
 리액트 배우기 : [React documentation](https://reactjs.org/)<br/>
 
 
