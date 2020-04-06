@@ -5,14 +5,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 스크립트 사용법
 
-In the project directory, you can run:
+프로젝트 디렉토리에서 다음을 실행하세요!
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+개발 모드에서 앱을 실행하고<br />
+[http://localhost:3000](http://localhost:3000)을 열어 브라우저를 확인합니다
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
